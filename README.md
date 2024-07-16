@@ -1,5 +1,6 @@
 # Real-State-Price-Prediction
 ###### Developed a model to predict house prices using linear regression.
+![image alt](https://github.com/KavinduDisnaka/Real-State-Price-Prediction/blob/bfc053ce014c93d97963045279ab83fa92d7ee0a/_C__Users_kavin_OneDrive_Desktop_RSPP_BHP_Client_app.html.png)
 
 I've completed an end-to-end ***Real Estate Price Prediction project***, where I developed a model to predict house prices using linear regression. This project has been a fantastic learning journey, and I'm thrilled to showcase the skills and techniques I've mastered along the way:
 
