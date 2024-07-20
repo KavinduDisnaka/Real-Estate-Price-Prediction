@@ -1,4 +1,4 @@
-# Real-State-Price-Prediction
+# Real-Estate-Price-Prediction
 ###### Developed a model to predict house prices using linear regression.
 ![image alt](https://github.com/KavinduDisnaka/Real-State-Price-Prediction/blob/bfc053ce014c93d97963045279ab83fa92d7ee0a/_C__Users_kavin_OneDrive_Desktop_RSPP_BHP_Client_app.html.png)
 
